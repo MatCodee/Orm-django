@@ -1,0 +1,8 @@
+Que es un ORM?
+Es una forma de traducir el codigo de un lenguaje al codigo SQL
+
+Porque usar un ORM?
+Escribi en el lenguaje que ya se esta usando
+Facil de cambar de MySql a PostgreSQL
+ORM proporciona carectiristicas adcionales fuera de la caja
+Las consultas pueder ser mejor, si no estas familiarizado con SQL
